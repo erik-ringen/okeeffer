@@ -23,7 +23,7 @@ for (c in 1:5) {
 # plot hex names
 text(x=5, y=3.5, labels=comment(pal2)[2])
 # read image file
-image <- jpeg::readJPEG(paste0(comment(pal2)[1], ".jpg"))
+image <- jpeg::readJPEG(paste0("./img/", comment(pal2)[1], ".jpg"))
 dims <- dim(image)
 ratio <- dims[1]/dims[2]
 # scaling image based on dims
