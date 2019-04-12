@@ -7,7 +7,7 @@ This R package includes 10 color palettes inspired by Georgia O'Keeffe paintings
 
 ## Installation
 ```
-install.packages(c("devtools","jpeg"))
+install.packages("devtools")
 library(devtools)
 devtools::install_github("erik-ringen/okeeffer")
 ```
