@@ -1,4 +1,6 @@
 # okeeffer
+"I found I could say things with color and shapes that I couldn't say any other way - things I had no words for" - Georgia O'Keeffe
+
 R color palettes inspired by Georgia O'Keeffe
 
 ![okeeffer example](https://github.com/erik-ringen/okeeffer/blob/master/okeefer.png)
